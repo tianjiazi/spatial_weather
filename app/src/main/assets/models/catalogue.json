@@ -1,0 +1,554 @@
+[
+  {
+    "weather": "晴",
+    "family": "sun",
+    "asset": "sun_00.glb",
+    "bytes": 175648,
+    "triangles": 6456,
+    "materials": 5
+  },
+  {
+    "weather": "多云",
+    "family": "cloud",
+    "asset": "cloud_00.glb",
+    "bytes": 239100,
+    "triangles": 8920,
+    "materials": 6
+  },
+  {
+    "weather": "少云",
+    "family": "cloud",
+    "asset": "cloud_01.glb",
+    "bytes": 239100,
+    "triangles": 8920,
+    "materials": 6
+  },
+  {
+    "weather": "晴间多云",
+    "family": "cloud",
+    "asset": "cloud_02.glb",
+    "bytes": 239100,
+    "triangles": 8920,
+    "materials": 6
+  },
+  {
+    "weather": "阴",
+    "family": "overcast",
+    "asset": "overcast_00.glb",
+    "bytes": 150400,
+    "triangles": 5744,
+    "materials": 4
+  },
+  {
+    "weather": "阵雨",
+    "family": "rain",
+    "asset": "rain_00.glb",
+    "bytes": 260528,
+    "triangles": 10016,
+    "materials": 5
+  },
+  {
+    "weather": "小雨",
+    "family": "rain",
+    "asset": "rain_01.glb",
+    "bytes": 260528,
+    "triangles": 10016,
+    "materials": 5
+  },
+  {
+    "weather": "中雨",
+    "family": "rain",
+    "asset": "rain_02.glb",
+    "bytes": 260528,
+    "triangles": 10016,
+    "materials": 5
+  },
+  {
+    "weather": "大雨",
+    "family": "rain",
+    "asset": "rain_03.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "暴雨",
+    "family": "rain",
+    "asset": "rain_04.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "大暴雨",
+    "family": "rain",
+    "asset": "rain_05.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "特大暴雨",
+    "family": "rain",
+    "asset": "rain_06.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "小雨-中雨",
+    "family": "rain",
+    "asset": "rain_07.glb",
+    "bytes": 260528,
+    "triangles": 10016,
+    "materials": 5
+  },
+  {
+    "weather": "中雨-大雨",
+    "family": "rain",
+    "asset": "rain_08.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "大雨-暴雨",
+    "family": "rain",
+    "asset": "rain_09.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "暴雨-大暴雨",
+    "family": "rain",
+    "asset": "rain_10.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "大暴雨-特大暴雨",
+    "family": "rain",
+    "asset": "rain_11.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "强阵雨",
+    "family": "rain",
+    "asset": "rain_12.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "极端降雨",
+    "family": "rain",
+    "asset": "rain_13.glb",
+    "bytes": 333428,
+    "triangles": 12864,
+    "materials": 5
+  },
+  {
+    "weather": "毛毛雨/细雨",
+    "family": "rain",
+    "asset": "rain_14.glb",
+    "bytes": 260528,
+    "triangles": 10016,
+    "materials": 5
+  },
+  {
+    "weather": "雨",
+    "family": "rain",
+    "asset": "rain_15.glb",
+    "bytes": 260528,
+    "triangles": 10016,
+    "materials": 5
+  },
+  {
+    "weather": "冻雨",
+    "family": "rain",
+    "asset": "rain_16.glb",
+    "bytes": 287888,
+    "triangles": 10976,
+    "materials": 6
+  },
+  {
+    "weather": "雷阵雨",
+    "family": "thunder",
+    "asset": "thunder_00.glb",
+    "bytes": 269264,
+    "triangles": 10304,
+    "materials": 6
+  },
+  {
+    "weather": "强雷阵雨",
+    "family": "thunder",
+    "asset": "thunder_01.glb",
+    "bytes": 342176,
+    "triangles": 13152,
+    "materials": 6
+  },
+  {
+    "weather": "雷阵雨并伴有冰雹",
+    "family": "thunder",
+    "asset": "thunder_02.glb",
+    "bytes": 286656,
+    "triangles": 10944,
+    "materials": 7
+  },
+  {
+    "weather": "雨夹雪",
+    "family": "sleet",
+    "asset": "sleet_00.glb",
+    "bytes": 314464,
+    "triangles": 11936,
+    "materials": 6
+  },
+  {
+    "weather": "阵雪",
+    "family": "snow",
+    "asset": "snow_00.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "小雪",
+    "family": "snow",
+    "asset": "snow_01.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "中雪",
+    "family": "snow",
+    "asset": "snow_02.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "大雪",
+    "family": "snow",
+    "asset": "snow_03.glb",
+    "bytes": 230840,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "暴雪",
+    "family": "snow",
+    "asset": "snow_04.glb",
+    "bytes": 230840,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "小雪-中雪",
+    "family": "snow",
+    "asset": "snow_05.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "中雪-大雪",
+    "family": "snow",
+    "asset": "snow_06.glb",
+    "bytes": 230840,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "大雪-暴雪",
+    "family": "snow",
+    "asset": "snow_07.glb",
+    "bytes": 230840,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "雪",
+    "family": "snow",
+    "asset": "snow_08.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "弱高吹雪",
+    "family": "snow",
+    "asset": "snow_09.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "吹雪",
+    "family": "snow",
+    "asset": "snow_10.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "雾",
+    "family": "fog",
+    "asset": "fog_00.glb",
+    "bytes": 180684,
+    "triangles": 6848,
+    "materials": 5
+  },
+  {
+    "weather": "轻雾",
+    "family": "fog",
+    "asset": "fog_01.glb",
+    "bytes": 180684,
+    "triangles": 6848,
+    "materials": 5
+  },
+  {
+    "weather": "大雾",
+    "family": "fog",
+    "asset": "fog_02.glb",
+    "bytes": 190528,
+    "triangles": 7216,
+    "materials": 5
+  },
+  {
+    "weather": "浓雾",
+    "family": "fog",
+    "asset": "fog_03.glb",
+    "bytes": 180684,
+    "triangles": 6848,
+    "materials": 5
+  },
+  {
+    "weather": "强浓雾",
+    "family": "fog",
+    "asset": "fog_04.glb",
+    "bytes": 190528,
+    "triangles": 7216,
+    "materials": 5
+  },
+  {
+    "weather": "特强浓雾",
+    "family": "fog",
+    "asset": "fog_05.glb",
+    "bytes": 190528,
+    "triangles": 7216,
+    "materials": 5
+  },
+  {
+    "weather": "中度雾",
+    "family": "fog",
+    "asset": "fog_06.glb",
+    "bytes": 180684,
+    "triangles": 6848,
+    "materials": 5
+  },
+  {
+    "weather": "霾",
+    "family": "haze",
+    "asset": "haze_00.glb",
+    "bytes": 179920,
+    "triangles": 6848,
+    "materials": 4
+  },
+  {
+    "weather": "中度霾",
+    "family": "haze",
+    "asset": "haze_01.glb",
+    "bytes": 179920,
+    "triangles": 6848,
+    "materials": 4
+  },
+  {
+    "weather": "重度霾",
+    "family": "haze",
+    "asset": "haze_02.glb",
+    "bytes": 189760,
+    "triangles": 7216,
+    "materials": 4
+  },
+  {
+    "weather": "严重霾",
+    "family": "haze",
+    "asset": "haze_03.glb",
+    "bytes": 189760,
+    "triangles": 7216,
+    "materials": 4
+  },
+  {
+    "weather": "浮尘",
+    "family": "dust",
+    "asset": "dust_00.glb",
+    "bytes": 206976,
+    "triangles": 7808,
+    "materials": 5
+  },
+  {
+    "weather": "扬沙",
+    "family": "dust",
+    "asset": "dust_01.glb",
+    "bytes": 206976,
+    "triangles": 7808,
+    "materials": 5
+  },
+  {
+    "weather": "沙尘暴",
+    "family": "dust",
+    "asset": "dust_02.glb",
+    "bytes": 216816,
+    "triangles": 8176,
+    "materials": 5
+  },
+  {
+    "weather": "强沙尘暴",
+    "family": "dust",
+    "asset": "dust_03.glb",
+    "bytes": 216816,
+    "triangles": 8176,
+    "materials": 5
+  },
+  {
+    "weather": "平静",
+    "family": "wind",
+    "asset": "wind_00.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "微风",
+    "family": "wind",
+    "asset": "wind_01.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "和风",
+    "family": "wind",
+    "asset": "wind_02.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "清风",
+    "family": "wind",
+    "asset": "wind_03.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "强风/劲风",
+    "family": "wind",
+    "asset": "wind_04.glb",
+    "bytes": 195136,
+    "triangles": 7408,
+    "materials": 5
+  },
+  {
+    "weather": "疾风",
+    "family": "wind",
+    "asset": "wind_05.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "大风",
+    "family": "wind",
+    "asset": "wind_06.glb",
+    "bytes": 195136,
+    "triangles": 7408,
+    "materials": 5
+  },
+  {
+    "weather": "烈风",
+    "family": "wind",
+    "asset": "wind_07.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "风暴",
+    "family": "wind",
+    "asset": "wind_08.glb",
+    "bytes": 195136,
+    "triangles": 7408,
+    "materials": 5
+  },
+  {
+    "weather": "狂爆风",
+    "family": "wind",
+    "asset": "wind_09.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "飓风",
+    "family": "wind",
+    "asset": "wind_10.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "热带风暴",
+    "family": "wind",
+    "asset": "wind_11.glb",
+    "bytes": 195136,
+    "triangles": 7408,
+    "materials": 5
+  },
+  {
+    "weather": "飑",
+    "family": "wind",
+    "asset": "wind_12.glb",
+    "bytes": 184140,
+    "triangles": 6992,
+    "materials": 5
+  },
+  {
+    "weather": "龙卷风",
+    "family": "tornado",
+    "asset": "tornado_00.glb",
+    "bytes": 263020,
+    "triangles": 10112,
+    "materials": 5
+  },
+  {
+    "weather": "热",
+    "family": "hot",
+    "asset": "hot_00.glb",
+    "bytes": 198224,
+    "triangles": 7272,
+    "materials": 5
+  },
+  {
+    "weather": "冷",
+    "family": "cold",
+    "asset": "cold_00.glb",
+    "bytes": 230872,
+    "triangles": 8624,
+    "materials": 5
+  },
+  {
+    "weather": "未知",
+    "family": "unknown",
+    "asset": "unknown_00.glb",
+    "bytes": 164956,
+    "triangles": 6256,
+    "materials": 5
+  }
+]

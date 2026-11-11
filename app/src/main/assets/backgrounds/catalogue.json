@@ -1,0 +1,122 @@
+[
+  {
+    "family": "sun",
+    "name": "晴 · 暖阳草地",
+    "file": "sun.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 37572
+  },
+  {
+    "family": "cloud",
+    "name": "多云 · 棉花云海",
+    "file": "cloud.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 18348
+  },
+  {
+    "family": "overcast",
+    "name": "阴 · 银灰丘陵",
+    "file": "overcast.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 12238
+  },
+  {
+    "family": "rain",
+    "name": "雨 · 涟漪花园",
+    "file": "rain.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 69984
+  },
+  {
+    "family": "thunder",
+    "name": "雷雨 · 金色闪电",
+    "file": "thunder.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 59788
+  },
+  {
+    "family": "sleet",
+    "name": "雨夹雪 · 融雪湖畔",
+    "file": "sleet.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 47670
+  },
+  {
+    "family": "snow",
+    "name": "雪 · 冰蓝雪丘",
+    "file": "snow.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 40230
+  },
+  {
+    "family": "fog",
+    "name": "雾 · 薄雾山谷",
+    "file": "fog.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 22062
+  },
+  {
+    "family": "haze",
+    "name": "霾 · 暖灰空气",
+    "file": "haze.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 12026
+  },
+  {
+    "family": "dust",
+    "name": "沙尘 · 杏色沙丘",
+    "file": "dust.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 19386
+  },
+  {
+    "family": "wind",
+    "name": "风 · 飘叶草地",
+    "file": "wind.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 35784
+  },
+  {
+    "family": "tornado",
+    "name": "龙卷风 · 螺旋云带",
+    "file": "tornado.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 46780
+  },
+  {
+    "family": "hot",
+    "name": "热 · 蜜桃暖光",
+    "file": "hot.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 30944
+  },
+  {
+    "family": "cold",
+    "name": "冷 · 冰晶晨光",
+    "file": "cold.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 35234
+  },
+  {
+    "family": "unknown",
+    "name": "未知 · 中性山谷",
+    "file": "unknown.webp",
+    "width": 1440,
+    "height": 768,
+    "bytes": 11438
+  }
+]
